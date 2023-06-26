@@ -4,7 +4,7 @@ internship in the field of data science or backend development.
 
 - 👨‍💻 Skills:
   * Languages: Python, Java, PHP, C/C++, PostgreSQL, Bash
-  * Tools: Git, Docker, Linux, LaTex
+  * Tools: Git, Docker, Linux, LaTex, Redis, FastAPI
   * Knowledge: Data structures and algorithms, Statistics, Probability theory, OOP
  
 see full cv - [https://github.com/mokaruuns/cv](https://github.com/mokaruuns/cv)
