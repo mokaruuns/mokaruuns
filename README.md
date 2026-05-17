@@ -1,15 +1,39 @@
-- 👋 Hi, I’m Marsel Akhmetov - a student of the third year of the master’s program in Computer Science at ITMO University. I’m looking for an
-internship in the field of data science or backend development.
-- 📫 How to reach me: tg - [@mokaruuns](https://t.me/mokaruuns)
+# Hi, I'm Marsel Akhmetov
 
-- 👨‍💻 Skills:
-  * Languages: Python, Java, PHP, C/C++, PostgreSQL, Bash
-  * Tools: Git, Docker, Linux, LaTex, Redis, FastAPI
-  * Knowledge: Data structures and algorithms, Statistics, Probability theory, OOP
- 
-see full cv - [https://github.com/mokaruuns/cv](https://github.com/mokaruuns/cv)
+I'm a backend developer working mostly with Go, PostgreSQL, Kafka and distributed systems.
 
-<!---
-mokaruuns/mokaruuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I graduated from ITMO University with a Computer Science background. 
+Now I work as a backend developer in the fintech domain.
+
+I like tasks where it is not enough to just write code. I enjoy understanding the domain, designing clear data flows, making integrations reliable and keeping systems maintainable for other developers.
+
+## 👨‍💻 Skills
+
+**Languages:** Go, SQL, Python, Bash  
+**Backend:** gRPC, REST, Kafka, microservices  
+**Databases:** PostgreSQL, ClickHouse, Redis  
+**Tools:** Git, Docker, Linux, GitLab CI/CD, PlantUML  
+**Knowledge:** distributed systems, system design, data structures and algorithms, database design, transactional consistency, idempotency
+
+## 🔧 Areas I care about
+
+- Reliable backend services
+- Clear service boundaries
+- Event-driven architecture
+- PostgreSQL schema design and query analysis
+- Idempotent and fault-tolerant processing
+- Useful logs, metrics and alerts
+- Code reviews focused on correctness and maintainability
+
+## 📚 Interests
+
+- Distributed systems
+- Database internals
+- Go internals
+- System design
+- AI-assisted development
+
+## 📫 Contacts
+
+- Telegram: [@mokaruuns](https://t.me/mokaruuns)
+- GitHub: [@mokaruuns](https://github.com/mokaruuns)
